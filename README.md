@@ -2,7 +2,7 @@
 
 ![Dashboard Preview](Interactive%20Dashboard%20Bangladesh.jpg)
 
-This Power BI report explores the operational and financial performance of major ride-sharing platforms in Bangladesh—Uber, Pathao, inDrive, and OBHAI[cite: 1, 3]. I built this project to practice data modeling with DAX and turn raw mobility records into a clean, interactive view for comparing market share and regional revenue[cite: 1, 3].
+This interactive Power BI dashboard provides an executive overview of the Bangladeshi ride-sharing market, evaluating operational performance and revenue metrics across major platforms including Uber, Pathao, inDrive, and OBHAI. Powered by custom DAX measures and dynamic slicers for platform and city, the report tracks core KPIs such as total completed bookings (8K), ride revenue (2M), average fare (210.69), and cancellation rates (0.13), while breaking down regional revenue dominance in Dhaka and Chattogram, preferred payment methods, and fleet distribution across bikes, cars, and CNGs.
 
 ## 📊 What is inside the dashboard
 - 📈 **Core Metrics:** Tracks 8K completed bookings, 2M in completed ride revenue, an average fare of 210.69, 1K cancellations (0.13 cancellation rate), 61.61K KM in estimated distance, and 327.67K in platform commissions[cite: 1, 3].
