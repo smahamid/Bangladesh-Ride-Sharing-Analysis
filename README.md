@@ -30,6 +30,6 @@ This project uses a synthetic dataset of 10,000 ride-booking records generated f
 - Analyse revenue distribution and financial performance.
 - Present actionable business insights through interactive reporting.
 
-##Presentation of Project
+## Presentation of Project
 Please find the dashboard snapshot from here ↓
 https://github.com/smahamid/Ride-Sharing-Platforms_Interactive-Dashboard_PowerBI/blob/main/Interactive%20Dashboard%20Bangladesh.jpg
